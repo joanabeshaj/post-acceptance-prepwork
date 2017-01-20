@@ -17,6 +17,8 @@ the provided solutions before you proceed to the next day's work.
 [c9]: ./../cloud9
 [environment]: ./../w0/environment-setup.md
 
+---
+
 ## Monday: Arrays, Strings, and Objects
 
 #### Readings
@@ -28,6 +30,10 @@ the provided solutions before you proceed to the next day's work.
 - [Working with Rspec](readings/running_rspec.md)
 
 #### [Exercises](exercises/w1d1.zip)
+
+**NOTE:** To download exercises, right click and select 'save link as'
+
+---
 
 ## Tuesday: Blocks and Iteration
 
@@ -41,6 +47,10 @@ the provided solutions before you proceed to the next day's work.
 
 #### [Exercises](exercises/w1d2.zip)
 
+**NOTE:** To download exercises, right click and select 'save link as'
+
+---
+
 ## Wednesday: Extending Classes
 
 #### Readings
@@ -49,6 +59,10 @@ the provided solutions before you proceed to the next day's work.
 
 #### [Exercises](exercises/w1d3.zip)
 
+**NOTE:** To download exercises, right click and select 'save link as'
+
+---
+
 ## Thursday: Writing New Classes
 
 #### Readings
@@ -56,6 +70,10 @@ the provided solutions before you proceed to the next day's work.
 - [Scope](readings/scope.md)
 
 #### [Exercises](exercises/w1d4.zip)
+
+**NOTE:** To download exercises, right click and select 'save link as'
+
+---
 
 ## Friday/Weekend: Writing Good Code
 
@@ -82,6 +100,8 @@ the provided solutions before you proceed to the next day's work.
   deeply; if anything is unclear, do some research and ask for help!
   After your review, go back and refactor your previous work. Apply the
   principles you've learned to write the best code you can.
+
+---
 
 ## Bonus
 - [Project Euler][project-euler] problems
