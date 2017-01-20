@@ -46,6 +46,10 @@ Here are some example resumes from previous students:
 * [Dean Hu][dean-hu-resume]
 * [Edmund Li][edmund-li-resume]
 
+**NOTE:** To download resume, right click and select 'save link as'
+
+---
+
 [glm-résumé]: http://www.careercup.com/resume
 [cracking-interview]: http://www.crackingthecodinginterview.com/
 [ami-hays-resume]: ./ami_hays_resume.pdf

@@ -36,5 +36,15 @@
     * [Debugging](w1/readings/debugger.md)
 
 * [Week 2](w2/README.md)
+  * W2D3
+    * [I/O](w2/readings/io.md)
+  * W2D4
+    * [Bracket Methods](w2/readings/bracket-methods.md)
 * [Week 3](w3/README.md)
+  * W3D1
+    * [Method Missing](w3/readings/method-missing.md)
+    * [Symbols and Options Hashes](w3/readings/symbols-options-hashes.md)
+  * Bonus
+    * [Maze Solver](w3/readings/maze-solver.md)
 * [Week 4](w4/README.md)
+  * [Prepare your Resume](w4/resume/README.md)

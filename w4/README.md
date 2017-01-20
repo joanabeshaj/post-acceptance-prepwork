@@ -1,6 +1,6 @@
 # Week 4: Resume and JavaScript
 
-### Resume Writing: [Prepare your Resume][resume]
+### Resume Writing: 
 - **NOTE**: If you've been conditionally accepted, this project is not yet required
 - Make sure you complete this and send it to us before your first day!
 
