@@ -22,10 +22,10 @@ the provided solutions before you proceed to the next day's work.
 ## Monday: Arrays, Strings, and Objects
 
 #### Readings
-- [Methods](readings/methods.md)
-- [Objects](readings/objects.md)
-- [Arrays](readings/arrays.md)
-- [Strings](readings/strings.md)
+- [Methods](readings/method.md)
+- [Objects](readings/object.md)
+- [Arrays](readings/array.md)
+- [Strings](readings/string.md)
 - [Installing Rspec](readings/installing_rspec.md)
 - [Working with Rspec](readings/running_rspec.md)
 
@@ -38,7 +38,7 @@ the provided solutions before you proceed to the next day's work.
 ## Tuesday: Blocks and Iteration
 
 #### Readings
-- [Blocks](readings/blocks.md)
+- [Blocks](readings/block.md)
 - [Chapter 10][pine10] of Chris Pine's Learn to Program (Blocks and Procs)
 - [Iteration](readings/iteration.md)
 - [Enumerables](readings/enumerable.md)
