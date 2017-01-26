@@ -11,7 +11,7 @@ will run ALL of the spec files in the project directory.
 If you got the error `bundle: command not found`, make sure you installed
 rspec as specified in the [previous reading][rspec].
 
-[rspec]: ./installing_rspec
+[rspec]: ./installing_rspec.md
 
 Otherwise, you should see a whole mess of errors. Ew. Don't even bother
 scrolling through them.

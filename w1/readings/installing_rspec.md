@@ -32,7 +32,7 @@ format.) Navigate into the `exercises` directory and run the following
 commands; refer back to the [fundamentals][fundamentals] reading if you
 need a refresher on using the command line.
 
-[fundamentals]: ./../../../w0/readings/fundamentals.md
+[fundamentals]: ./../../w0/readings/fundamentals.md
 
 ```sh
 ~$ gem install bundler

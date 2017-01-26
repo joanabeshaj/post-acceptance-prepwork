@@ -13,7 +13,7 @@ Also review the [daily workflow][workflow]. Complete the readings, work
 through the exercises, refactor your code, and make sure you understand
 the provided solutions before you proceed to the next day's work.
 
-[workflow]: ./../workflow.md
+[workflow]: ./../w0/workflow.md
 [c9]: ./../cloud9
 [environment]: ./../w0/environment-setup.md
 

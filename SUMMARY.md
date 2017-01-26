@@ -8,6 +8,10 @@
   * [Cloud 9 Setup](cloud9/README.md)
   * [Environment Setup](w0/environment-setup.md)
   * [Fundamentals](w0/readings/fundamentals.md)
+  * [Workflow](./w0/workflow.md)
+  * [Extra Preparation](./w0/extra-preparation.md)
+
+
 
 * [Week 1](w1/README.md)
   * W1D1

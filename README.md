@@ -11,7 +11,7 @@ Prep Course and the main curriculum, so please read it carefully.
 * [Environment Setup][env]
 * [Daily Workflow][workflow]
 * [Assignments](#getting-started)
-
+* [Course Overview](#course-overview)
 
 [feedback-form]: https://docs.google.com/forms/d/1z5Vc9tIRRh6_k3DhVaokz4vm9mRVjelB8fUGJRU28ls/viewform
 
@@ -42,7 +42,6 @@ look like this. Whatever your schedule, be sure to follow the [daily
 workflow][workflow] for each discreet day of the curriculum, whether you
 spread it out over multiple sessions or crush through 2 or 3 days at a time.
 
-[workflow]: ./workflow.md
 
 ## Prepwork Submission
 
@@ -90,9 +89,35 @@ If you'd like to get some help or talk things over with your classmates
 and TAs, refer to the additional resources below.
 
 [env]: ./w0/environment-setup.md
+[workflow]: ./w0/workflow.md
 [w0]: ./w0/
 [w1]: ./w1/
-[extra-preparation]: ./extra-preparation.md
+[extra-preparation]: ./w0/extra-preparation.md
+
+## Course Overview
+
+| Week/Day | Topic | Est. Hours |
+| -- | -- | -- |
+| W1D1 | Arrays, Strings, and Objects | 3 hours |
+| W1D2 | Blocks and Iteration | 3 hours |
+| W1D3 | Extending Classes | 3 hours |
+| W1D4 | Writing New Classes | 3 hours |
+| W1D5 | Writing Good Code | 3 hours |
+| W2D1 | Mini-Projects | 3 hours |
+| W2D2 | Class Interactions | 3 hours |
+| W2D3 | I/O | 3 hours |
+| W2D4 | Tic Tac Toe | 3 hours |
+| W2D5 | Review | 3 hours |
+| W3D1 | Options Hashes and Method Missing | 3 hours |
+| W3D2 | Mastermind | 3 hours |
+| W3D3 | Battleship | 3 hours |
+| W3D4 | Hangman | 3 hours |
+| W3D5 | Review | 3 hours |
+| W4D1 | Resume Writing | 3 hours |
+| W4D2 | Learn JavaScript | 3 hours |
+| W4D3 | Learn JavaScript | 3 hours |
+| W4D4 | Learn JavaScript | 4 hours |
+| W4D4 | Review | 3 hours |
 
 ## Additional Resources
 
