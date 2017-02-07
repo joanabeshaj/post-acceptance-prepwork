@@ -162,3 +162,5 @@ App Academy runs a separate code tutoring program and some students have found i
 Because we don't have the bandwidth to help everyone 1-on-1 during the prep work, we do have to charge for the service. Some students have found it helpful in the past and we want to give you the option.
 
 You can sign up [here](http://www.appacademy.io/students/tutoring?utm_source=main_course_prep_work).
+
+Good Luck!
